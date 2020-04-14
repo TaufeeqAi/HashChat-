@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972519924756",
+    "firebase_url": "https://hash-chat-11c40.firebaseio.com",
+    "project_id": "hash-chat-11c40",
+    "storage_bucket": "hash-chat-11c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972519924756:android:bd8dbf070da056bfa2f301",
+        "android_client_info": {
+          "package_name": "co.taufeeq.hash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972519924756-2jthh1v6vlv98727jskg261d8dcst4jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTKduZ_jEUbkaCga1DiqiY9tDsf40qjzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972519924756-2jthh1v6vlv98727jskg261d8dcst4jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
